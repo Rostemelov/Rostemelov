@@ -10,7 +10,7 @@
 - Email: sai.harshitbalaji@gmail.com
 - Discord: Hasta la Pasta #7586
 - LinkedIn: https://www.linkedin.com/in/sai-harshit-b-4ba3411b5
-- Check out my Games on my hobby game studio @: rostemelov.github.io
+- Check out my Games on my hobby game studio @: https://www.rostemelov.github.io
 - I'm not on most of social media though, so best way to contact me is through mail or WhatsApp...
 
 <!---
