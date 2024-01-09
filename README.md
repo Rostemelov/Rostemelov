@@ -1,19 +1,31 @@
-- 👋 Hi, I’m Sai Harshit.B
-- I’m interests are in Game Development in Unity, Python Programming, Anything Space related, Robotics, IoT and Web development
-- I'm good with Python, C and Java, while I do have some experience with C++ through Arduino and C# through Unity.
-- I’m currently learning ROS and IoT, I'm also learning c# for Unity, but it is just a hobby for me. 
-- I love to work on projects involving Robotics, Game Development using Unity and IoT.
-- I'd love to collaborate on Unity Game dev projects as well. My favourite genre to develop is 2D retro style.
+# Hi there! 👋 I'm Sai Harshit.B
 
-- How to reach me : 
-- Phone Number: 8431003590
-- Email: sai.harshitbalaji@gmail.com
-- Discord: Hasta la Pasta #7586
-- LinkedIn: https://www.linkedin.com/in/sai-harshit-b-4ba3411b5
-- Check out my Games on my hobby game studio @: https://rostemelov.github.io
-- I'm not on most of social media though, so best way to contact me is through mail or WhatsApp...
+Welcome to my GitHub profile! I'm a passionate individual with diverse interests spanning Game Development, Python Programming, Space Exploration, Robotics, IoT, and Web Development. I'm proficient in Python, C, and Java, with hands-on experience in C++ (Arduino) and C# (Unity).
 
-<!---
-Rostemelov/Rostemelov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔭 What I'm Currently Up To
+- Learning ROS (Robot Operating System) and diving into the world of IoT.
+- Exploring the depths of C# for Unity, turning it into a delightful hobby.
+
+## 💻 Tech Stack
+- **Languages:** Python, C, Java, C++ (Arduino), C# (Unity).
+- **Interests:** Game Development, Robotics, IoT, Web Development.
+
+## 🚀 My Projects
+I thrive on projects related to Robotics, Unity Game Development (especially in the 2D retro style), and IoT. Check out some of my work on my hobby game studio: [rostemelov.github.io](https://rostemelov.github.io).
+
+## 🤝 Let's Collaborate!
+I'm open to collaborating on Unity Game Development projects. My favorite genre to work on is 2D retro style games. If you have an exciting project in mind, let's team up and create something awesome together!
+
+## 📫 How to Reach Me
+- **Email:** [sai.harshitbalaji@gmail.com](mailto:sai.harshitbalaji@gmail.com)
+- **Phone:** 8431003590 (WhatsApp available)
+- **Discord:** Hasta la Pasta #7586
+- **LinkedIn:** [Sai Harshit B](https://www.linkedin.com/in/sai-harshit-b-4ba3411b5)
+
+## 🌌 More About Me
+I have a strong affinity for anything space-related. When not coding, you can find me stargazing or working on exciting projects in my game studio.
+
+Feel free to explore my work and reach out. Let's build something amazing together!
+
+[![GitHub Followers](https://img.shields.io/github/followers/rostemelov?label=Follow%20%40rostemelov&style=social)](https://github.com/rostemelov)
+
