@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate individual with diverse interests
 - **Interests:** Game Development, Robotics, IoT, Web Development.
 
 ## 🚀 My Projects
-I thrive on projects related to Robotics, Unity Game Development (especially in the 2D retro style), and IoT. Check out some of my work on my hobby game studio: [rostemelov.github.io](https://rostemelov.github.io).
+I thrive on projects related to Robotics, Unity Game Development (especially in the 2D retro style), and IoT.
 
 ## 🤝 Let's Collaborate!
 I'm open to collaborating on Unity Game Development projects. My favorite genre to work on is 2D retro style games. If you have an exciting project in mind, let's team up and create something awesome together!
@@ -24,8 +24,4 @@ I'm open to collaborating on Unity Game Development projects. My favorite genre 
 
 ## 🌌 More About Me
 I have a strong affinity for anything space-related. When not coding, you can find me stargazing or working on exciting projects in my game studio.
-
-Feel free to explore my work and reach out. Let's build something amazing together!
-
-[![GitHub Followers](https://img.shields.io/github/followers/rostemelov?label=Follow%20%40rostemelov&style=social)](https://github.com/rostemelov)
 
